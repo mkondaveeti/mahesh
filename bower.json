@@ -1,0 +1,15 @@
+{
+  "name": "GlobalLayout",
+  "version": "0.0.1",
+  "description": "global ui",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
